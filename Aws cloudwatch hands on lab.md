@@ -1,5 +1,6 @@
 # 🔬 AWS CloudWatch Hands-On Lab
 ### A Production-Grade Monitoring Setup Guide
+# Author: Sajal Jana
 
 ![AWS CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange?style=for-the-badge&logo=amazon-aws)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-purple?style=for-the-badge&logo=ubuntu)
